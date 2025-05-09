@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm Michael Michire 👋</h1>
 <p align="center">
-  <strong>Aspiring Senior Developer | ALX Software Engineering Learner | Passionate Problem-Solver</strong>
+  <strong>Aspiring Senior Developer | ALX Software Engineer Graduate | Passionate Problem-Solver</strong>
 </p>
 <p align="center">
   <a href="https://github.com/MycallMike123"><img src="https://img.shields.io/github/followers/MycallMike123?label=Follow&style=social" alt="GitHub"></a>
